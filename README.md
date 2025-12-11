@@ -1,1 +1,1 @@
-# Number-to-any-Base
+# Number-to-any-Base This program gives the representation of any number in any base. It was written in Borlnd C++ Builder and includes the source code plus the executable. It will run on any Widows version from XP up.
